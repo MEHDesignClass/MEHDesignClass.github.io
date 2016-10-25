@@ -33,3 +33,6 @@ a {
   padding-left: 50px;
   padding-top: 30px;
 }
+h2 span {
+    font-style: italic;
+}
